@@ -1,0 +1,46 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Dd]ebug/
+[Dd]ebugPublic/
+Build/
+Builds/
+[Ll]ogs/
+
+# User-specific files
+UserSettings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider files
+.idea/
+
+# VS Code directory and settings
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Gradle files for Android builds
+.gradle/
+build/
+
+# Unity3D build folders
+*.apk
+*.unitypackage
+
+# Exported Xcode projects
+.xcodeproj/
+.idea/
+build/
